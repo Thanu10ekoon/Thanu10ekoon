@@ -2,12 +2,16 @@
 <p align = "center"><a href="https://imgbb.com/"><img align = "center" src="https://i.ibb.co/QdB6VV7/463825265-2347480112317903-1758002265585908607-n.jpg" alt="463825265-2347480112317903-1758002265585908607-n" height = "100px" width = "100px"></a></p>
 <h3 align="center">B.Sc.(Engineering)[Hons]{UG}|Ruhuna|</h3>
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thanu10ekoon&label=Profile%20views&color=0e75b6&style=flat" alt="thanu10ekoon" /> </p>
+<p align="center">🌐<a href="https://thanu10ekoon.github.io/web/">https://thanu10ekoon.github.io/web</a></p>
 
 <p align="center"> <a href="https://twitter.com/ttennekoon" target="blank"><img src="https://img.shields.io/twitter/follow/ttennekoon?logo=twitter&style=for-the-badge" alt="ttennekoon" /></a> </p>
 
 <p align = "center">
-<a href = "mailto:thanujayaabtennekoon@gmail.com"> 📫thanujayaabtennekoon@gmail.com </a> <a href="mailto:eg245364@engug.ruh.ac.lk">📫 eg245364@engug.ruh.ac.lk</a>
+📫<a href = "mailto:thanujayaabtennekoon@gmail.com">thanujayaabtennekoon@gmail.com</a> </p>
+<p align = "center">
+📫<a href="mailto:eg245364@engug.ruh.ac.lk">eg245364@engug.ruh.ac.lk</a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
