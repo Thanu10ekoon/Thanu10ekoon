@@ -1,6 +1,13 @@
-<h1 align="center" style="color:blue">T.M. Thanujaya Avishka Bandara Tennekoon</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=196DF7&width=435&lines=T.M.Thanujaya+Avishka+Bandara+Tennekoon" alt="Typing SVG">
+  </a>
+</p>
 <p align = "center"><a href="https://imgbb.com/"><img align = "center" src="https://i.ibb.co/QdB6VV7/463825265-2347480112317903-1758002265585908607-n.jpg" alt="463825265-2347480112317903-1758002265585908607-n" height = "100px" width = "100px"></a></p>
 <h3 align="center">B.Sc.(Engineering)[Hons]{UG}|Ruhuna|</h3>
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">🌐<a href="https://thanu10ekoon.github.io/web/">https://thanu10ekoon.github.io/web</a></p>
