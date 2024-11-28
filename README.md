@@ -4,16 +4,13 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thanu10ekoon&label=Profile%20views&color=0e75b6&style=flat" alt="thanu10ekoon" /> </p>
-<p align="center">🌐<a href="https://thanu10ekoon.github.io/web/">https://thanu10ekoon.github.io/web</a></p>
+
 
 <p align="center"> <a href="https://twitter.com/ttennekoon" target="blank"><img src="https://img.shields.io/twitter/follow/ttennekoon?logo=twitter&style=for-the-badge" alt="ttennekoon" /></a> </p>
 
-<p align = "center">
-📫<a href = "mailto:thanujayaabtennekoon@gmail.com">thanujayaabtennekoon@gmail.com</a> </p>
-<p align = "center">
-📫<a href="mailto:eg245364@engug.ruh.ac.lk">eg245364@engug.ruh.ac.lk</a>
-</p>
+
 <h3 align="center">Connect with me:</h3>
+<p align="center">🌐<a href="https://thanu10ekoon.github.io/web/">https://thanu10ekoon.github.io/web</a></p>
 <p align="center">
 <a href="https://twitter.com/ttennekoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ttennekoon" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thanujaya-tennekoon-b9a155271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/thanujaya-tennekoon-b9a155271" height="30" width="40" /></a>
@@ -21,7 +18,11 @@
 <a href="https://instagram.com/thanujaya_tennekoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanujaya_tennekoon" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thanujaya_ten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thanujaya_ten" height="30" width="40" /></a>
 </p>
-
+<p align = "center">
+📫<a href = "mailto:thanujayaabtennekoon@gmail.com">thanujayaabtennekoon@gmail.com</a> </p>
+<p align = "center">
+📫<a href="mailto:eg245364@engug.ruh.ac.lk">eg245364@engug.ruh.ac.lk</a>
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://cs50.harvard.edu/certificates/d0126b33-eb34-4a6d-b909-07b12e59ce73" target="_blank" rel="noreferrer"> 
