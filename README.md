@@ -21,6 +21,7 @@
 <p align = "center">
 📫<a href="mailto:eg245364@engug.ruh.ac.lk">eg245364@engug.ruh.ac.lk</a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thanu10ekoon&label=Profile%20views&color=0e75b6&style=flat" alt="thanu10ekoon" /> </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://cs50.harvard.edu/certificates/d0126b33-eb34-4a6d-b909-07b12e59ce73" target="_blank" rel="noreferrer"> 
@@ -33,7 +34,8 @@
 <a href="https://open.uom.lk/lms/mod/customcert/verify_certificate.php?contextid=39990&code=m1DSExAggt&qrcode=1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://thanu10ekoon.github.io/web" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thanu10ekoon&label=Profile%20views&color=0e75b6&style=flat" alt="thanu10ekoon" /> </p>
+
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanu10ekoon&show_icons=true&locale=en&layout=compact" alt="thanu10ekoon" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanu10ekoon" alt="thanu10ekoon" /></a> </p>
